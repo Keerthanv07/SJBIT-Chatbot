@@ -39,5 +39,3 @@ cd SJBIT-Chatbot
      ```bash
      streamlit run app.py
      ```
-
-Let me know if you want this embedded in a README file or need help deploying to Streamlit Cloud or configuring API keys.
