@@ -1,8 +1,6 @@
 # SJBIT-Chatbot
 PDF Content Extractor &amp; Summarizer
 
-Thanks! Based on your repository link [https://github.com/Keerthanv07/SJBIT-Chatbot.git](https://github.com/Keerthanv07/SJBIT-Chatbot.git), here are the commands and instructions for cloning and using it:
-
 📥 Clone the Repository
 
 Using HTTPS:
